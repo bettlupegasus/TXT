@@ -1,2 +1,15 @@
-актический результат
-Ожидаемый результт 
+Bug tamplate 
+
+Bug_id:
+Title:
+
+Severity:
+Priority:
+Environment:
+Precondition:
+STR:
+
+AR:
+ER:
+
+Attechments:
